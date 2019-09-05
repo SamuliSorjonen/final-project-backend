@@ -8,4 +8,4 @@ As a database we use PostgreSQL, having eight tables total.
 ### Security
 Authentication and authorization are done using JWT from Auth0.   
 
-Link to frontend:
+Link to frontend: https://github.com/SamuliSorjonen/final-project-frontend.git
