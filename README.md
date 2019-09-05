@@ -6,6 +6,6 @@ Backend is done using Spring Boot. We choose to use Object-Relational Mapping, O
 ### Database
 As a database we use PostgreSQL, having eight tables total. 
 ### Security
-Authentication is done using Auth0 JWT.   
+Authentication and authorization are done using JWT from Auth0.   
 
 Link to frontend:
